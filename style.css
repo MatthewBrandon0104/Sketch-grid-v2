@@ -1,0 +1,19 @@
+body {
+    background-color: aqua;
+}
+
+#container {
+    background: beige;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: relative;
+    top: 25px;
+}
+
+.box {
+    background: tomato;
+    width: 25%;
+    height: 25%;
+    float: right;
+}
